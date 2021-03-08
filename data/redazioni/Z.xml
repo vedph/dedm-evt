@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Z</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+            <respStmt>
+               <resp>Project coordination by</resp>
+               <name ref="#eugenio">Eugenio Burgio</name>
+               <name xml:id="marina">Marina Buzzoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Text modelling and encoding by</resp>
+               <name xml:id="elisa">Elisa Cugliana</name>
+            </respStmt>
+            <respStmt>
+               <resp>Software developing by</resp>
+               <name xml:id="chiara">Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="v_Z_body" xml:lang="la">
+         
+         <div type="chapter" xml:id="c0_Z1" corresp="#c0_tr0" n="1">
+            <p n="1" xml:id="c0_Z1_par1">
+               <hi rend="bold">#1</hi><lb/>
+               <seg xml:id="c0_Z1_p1" n="1">Domini imperatores, reges, duces, marchiones, comites, milites
+                  et burgenses et omnes gentes qui vultis agnoscere diversa hominum genera et diversarum
+                  regionum mundanas diversitates, accipite hunc librum. </seg>
+               <seg xml:id="c0_Z1_p2" n="2"> Nam in ipsum invenietis omnia magna mirabilia et diversitates
+                  <placeName ref="#">Armenie Maioris</placeName>, <placeName ref="#"
+                     >Persarum</placeName>, <placeName ref="#">Tartarie</placeName> et <placeName ref="#"
+                        >Indie</placeName> et aliarum multarum provinciarum circa <placeName ref="#"
+                           >Asyam</placeName>, <placeName ref="#">Mediam</placeName> et partem <placeName ref="#"
+                              >Europe</placeName>, ut patebit per ordinem, sicut dominus <persName ref="#">Marcus
+                                 Paullo</persName>
+                  <placeName ref="#">Veneciarum</placeName> civis enarat, quoniam oculis propriis ipse
+                  vidit. </seg>
+               <seg xml:id="c0_Z1_p3" n="3">Et sunt etiam aliqua que non vidit, sed audivit ab hominibus
+                  fide dignis; et quicumque hunc librum leget vel audiet plenariam fidem debeat adhibere,
+                  quia omnia sunt vera. </seg>
+               <seg xml:id="c0_Z1_p4" n="4"> Antedictus dominus <persName ref="#">Marcus Paulus</persName>
+                  ab infancia sua usque ad tricessimum annum conversatus fuit per partes illas. </seg>
+               <seg xml:id="c0_Z1_p5" n="5">Et ideo, ipso existente in carcere in civitate <placeName
+                  ref="#">Ianue</placeName>, nolens vacare otio, visum fuit sibi, ad consolationem
+                  legentium, ut predictum librum compilare deberet. </seg>
+               <seg xml:id="c0_Z1_p6" n="6">Et ipse non notavit nisi pauca aliqua, que adhuc in mente
+                  retinebat. </seg>
+               <seg xml:id="c0_Z1_p7" n="7"> Compilavit autem librum hunc ano Domini .MCCXCVIII.</seg>
+            </p>
+         </div>
+         
+         <div type="chapter" n="47" xml:id="c105_Z47" corresp="#c105_tr105">
+            <p n="1" xml:id="c105_Z47_par1">
+               <hi rend="bold">#47</hi><lb/><seg n="1" xml:id="c105_Z47_p1">Cum ab isto ponte
+                  disceditur et itum est .XXX. <term ref="#mil">miliaribus</term> per
+                     <term>ponentem</term>, inveniendo continue herbas, vineas et campos, invenitur
+                  quedam civitas nomine <placeName ref="#giugiu">Çonça</placeName> pulcra et magna
+                  valde.</seg>
+               <seg n="2" xml:id="c105_Z47_p2">In ea sunt multe abbatie <term ref="#ydres"
+                     >ydolorum</term>.</seg>
+               <seg n="3" xml:id="c105_Z47_p3">Vivunt quidem gentes de mercimoniis et artibus.</seg>
+               <seg n="4" xml:id="c105_Z47_p4">Ibi laborantur <term>drappi</term> aurei et de
+                     <term>syrico</term>, |22v| et pulcre sidones.</seg></p>
+            <p n="2" xml:id="c105_Z47_par2"><seg n="5" xml:id="c105_Z47_p5">Et ‹cum› ab ista
+                  civitate discedendo itum est per <term ref="#mil">miliare</term> unum, inveniuntur
+                  due vie, per unam quarum itur versus <term>ponentem</term>, per aliam versus
+                     <term>sirochum</term>.</seg>
+               <seg n="6" xml:id="c105_Z47_p6">Et noveritis quod a civitate <placeName ref="#giugiu"
+                     >Çonçu</placeName> usque ad regnum <placeName ref="#taianfu"
+                     >Tayanfu</placeName> equitatur per provinciam <placeName>Cathay</placeName> .X.
+                  dietis, semper inveniendo multas pulcras civitates et castra de magnis artibus et
+                  mercimoniis munitas, et inveniendo vineas et campos, in quibus multum nascitur
+                     <term>syricum</term>.</seg>
+               <seg n="7" xml:id="c105_Z47_p7">Sunt omnes gentes domestice propter spissitudinem
+                  civitatum.</seg>
+               <seg n="8" xml:id="c105_Z47_p8">Et frequentantur ita vie illarum civitatum quod
+                  semper inveniuntur gentes transeuntes, etcetera.</seg>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

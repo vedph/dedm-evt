@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>F</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+            <respStmt>
+               <resp>Project coordination by</resp>
+               <name ref="#eugenio">Eugenio Burgio</name>
+               <name xml:id="marina">Marina Buzzoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Text modelling and encoding by</resp>
+               <name xml:id="elisa">Elisa Cugliana</name>
+            </respStmt>
+            <respStmt>
+               <resp>Software developing by</resp>
+               <name xml:id="chiara">Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="v_F_body" xml:lang="fr">
+         <div type="chapter" xml:id="c0_F0" corresp="#c0_tr0" n="0">
+            <p n="1" xml:id="c0_F0_par1">
+               <hi rend="bold">#0</hi><lb/>
+               <seg xml:id="c0_F0_p1" n="1">Seingnors, enperaor et rois, dux et marquois, cuens, chevalers
+                  et borgiois, et toutes gens qe volés savoir les deverses jenerasions des homes et les
+                  deversités des deverses region dou monde, si prennés cestui livre et le feites lire; et
+                  chi trover{er}és toutes les grandismes mervoilles et les grant diversités de la
+                  <placeName ref="#">Grande Harminie</placeName> et de <placeName ref="#"
+                     >Persie</placeName> et des <placeName ref="#">Tartars</placeName> et <placeName
+                        ref="#">Indie</placeName> et des maintes autres provinces, si con notre livre voç
+                  contera por ordre apertemant, si come meisser <persName ref="#">March Pol</persName>,
+                  sajes et noble citaiens de <placeName ref="#">Venece</placeName>, raconte, por ce que a
+                  seç iaus meissme il le vit; mes auques hi ni a qu’il ne vit pas mes il l’entendi da
+                  homes citables et de verité. </seg>
+               <seg xml:id="c0_F0_p2" n="2">Et por ce met{r}eron les chouses veue por veue et l’entendue
+                  por entandue, por ce que notre livre soit droit et vertables sanç nulle mensonge; et
+                  chascuns que cest livre liroie, ou hoiront, le doient croire, por ce que toutes sunt
+                  chouses vertables, car je voç fais savoir que, puis que notre Sire Dieu |4b| p‹l›asmé de
+                  seç mainç Adam notre primer pere jusque a cestui point, ne fu <persName ref="#"
+                     >cristienç</persName> ne paiens ne <persName ref="#">tartar</persName> ne <persName
+                        ref="#">yndiens</persName>, ne nulç homes de nulle generasion, que tant seust ne
+                  cherchast de les deverses partie dou monde et de les grant mervoilles come cestui
+                  messire <persName ref="#">March</persName> en chercé et soi. </seg>
+               <seg xml:id="c0_F0_p3" n="3">Et por ce dit il a soi meisme que trop{o} seroit grant maus se
+                  il ne feist metre en ecriture toutes les granç mervoilles qu’il vit et qu’il hoï por
+                  verités, por ce que les autres jens que ne le virent ne sevent le sachent por cest
+                  livre; et si voç di qu’il demora a ce savoir en celles deverses parties et provences
+                  bien .XXVI. anç. </seg>
+               <seg xml:id="c0_F0_p4" n="4">Le quel puis, demorant en le charchre de <placeName ref="#"
+                  >Jene</placeName>, fist retraire toutes cestes chouses a messire <persName ref="#"
+                     >Rustaciaus de Pise</persName>, que en celle meissme chartre estoi{i}t, au tens
+                  qu’il avoit .MCCXCVIII. anç que Jeçucrit nesqui.</seg>
+            </p>
+         </div>
+         
+         <div type="chapter" xml:id="c1_F1" corresp="#c0_tr1" n="1">
+            <p n="1" xml:id="c1_F1_par1">
+               <hi rend="bold">#1</hi><lb/>
+               <seg xml:id="c1_F1_p1" n="1">Comant messire <persName ref="#">Nicolao</persName> et messire
+                  <persName ref="#">Mafeo</persName> se partirent de <placeName ref="#"
+                     >Gostantinople</placeName> por chercher dou monde.</seg>
+            </p>
+            <p n="2" xml:id="c1_F1_par2">
+               <seg xml:id="c1_F1_p2" n="2">Il fu voir que au tens qe <persName ref="#">Baudoin</persName>
+                  estoit enperaor de <placeName ref="#">Gostantinople</placeName>, ce fu a les .MCCL. anç,
+                  mesire <persName ref="#">Nicolao Pol</persName>, que pere messire <persName ref="#"
+                     >March</persName> estoit, et messiere <persName ref="#">Mafeu Pol</persName>, que
+                  frere mesere <persName ref="#">Nicolau</persName> estoit, cesti deus freres estoient en
+                  la cité de <placeName ref="#">Gostantinople</placeName>, qui i estoient alés de |4c|
+                  <placeName ref="#">Venese</placeName> con leur me‹r›chandie; nobli et sajes et
+                  porveant estoient san faille: il ont consoil entr’aus et distrent qu’il vuelent aler en
+                  la <placeName ref="#">Mer Greing‹n›or</placeName> por gaangner et por fer leur profit. </seg>
+               <seg xml:id="c1_F1_p3" n="3">Et adont achaterent plusorç joiaus et se partirent de
+                  <placeName ref="#">Gostantinople</placeName> in une nes et s’en alent en <placeName
+                     ref="#">Soldadie</placeName>.</seg>
+            </p>
+         </div>
+         
+         <div type="chapter" n="104" xml:id="c104_F104" corresp="#c104_tr104">
+            <p><hi rend="bold">#104</hi><lb/></p>
+         </div>
+         <div type="chapter" n="105" xml:id="c105_F105" corresp="#c105_tr105">
+            <p n="1" xml:id="c105_F105_par1">
+               <hi rend="bold">#105</hi><lb/>
+               <seg n="1" xml:id="c105_F105_p1">Ci devise de la grant cité de <placeName
+                     ref="#giugiu">Giugiu</placeName>.</seg></p>
+            <p><seg n="2" xml:id="c105_F105_p2">Et quant l’en s’en part de cest pont et il est alés
+                  trointe <term ref="#mil">miles</term> por <term>ponent</term> trouvant toutes
+                  foies bieles erberges et vignes et chans, adonc treuve une cité qui est apelés
+                     <placeName ref="#giugiu">Giogiu</placeName>, grant et biele.</seg>
+               <seg n="3" xml:id="c105_F105_p3">Hi a maintes abaïe de <term ref="#ydres"
+                     >ydres</term>; il vivent de merchandie et des ars; il hi se laborent
+                     <term>dras</term> de <term>soie</term> et doré et biaus <term>sendal</term>; et
+                  il hi a maintes herbergieries qe erbergient les viandanç.</seg></p>
+            <p n="2" xml:id="c105_F105_par2"><seg n="4" xml:id="c105_F105_p4">Et quant l’en est
+                  parti |48a| de ceste ville et alés un <term ref="#mil">mil</term>, adonc treuve
+                  l’en deus voies, que le une ala a <term>ponent</term> et le autre a
+                     <term>sciloc</term>.</seg>
+               <seg n="5" xml:id="c105_F105_p5">Celle dou <term>ponent</term> est dou
+                     <placeName>Catai</placeName> et celle do <term>siloc</term> vait ver la grant
+                  pro vence dou <placeName>Mangi</placeName>.</seg>
+               <seg n="6" xml:id="c105_F105_p6">Et sachiés tout voiremant qe l’en chevauche por
+                     <term>ponent</term> por la provence dou <placeName>Catai</placeName> bien .x.
+                  jornee, et toutes foies treuve l’en maintes belles cités et maint biaus chastiaus,
+                  de grant mercandies et de grant ars, et biaus chans et bielles vingnes et domesces
+                  jens.</seg>
+               <seg n="7" xml:id="c105_F105_p7">N’i a chouses qe a mentovoir face: por ce ne voç en
+                  diron rien.</seg></p>
+            <p n="3" xml:id="c105_F105_par3"><seg n="8" xml:id="c105_F105_p8">Et adonc laiseron de
+                  ceste maitiere et voç conteron de un roiame que <placeName ref="#taianfu"
+                     >Taianfu</placeName> est appellés.</seg></p>
+         </div>
+      </body>
+   </text>
+</TEI>

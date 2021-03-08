@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fr1</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+            <respStmt>
+               <resp>Project coordination by</resp>
+               <name ref="#eugenio">Eugenio Burgio</name>
+               <name xml:id="marina">Marina Buzzoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Text modelling and encoding by</resp>
+               <name xml:id="elisa">Elisa Cugliana</name>
+            </respStmt>
+            <respStmt>
+               <resp>Software developing by</resp>
+               <name xml:id="chiara">Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="v_Fr1_body" xml:lang="fr">
+
+         <div type="chapter" n="0" xml:id="c0_Fr1.0" corresp="#c0_tr0">
+            <head>
+               <hi rend="bold">#0</hi><lb/>Ci commence li livres du <persName ref="#">Grant
+                  Caam</persName>, qui parole de la <placeName ref="#">Grant Ermenie</placeName>, de
+                  <placeName ref="#">Persse</placeName> et des <persName ref="#">Tartars</persName>
+               et d’<placeName ref="#">Ynde</placeName> et des granz merveille[s] qui par le monde
+               sont. </head>
+            <p xml:id="c0_Fr1.0_par1" n="1">
+               <seg xml:id="c0_Fr1.0_p1" n="1">Pour savoir la pure verité des diverses regions du
+                  monde, si prenez cest livre [et le faites lire]: si trouverez les grandesimes
+                  merveilles qui [y] sont escriptes [de] la <placeName ref="#">Grant
+                     Hermenie</placeName> et de <placeName ref="#">Persse</placeName> et des
+                     <persName ref="#">Tartas</persName> et d’<placeName ref="#">Ynde</placeName> et
+                  de maintes autres provinces, si comme nostre livres [vous] contera tout par ordre
+                  [apertement] des que mesires <persName ref="#">Marc Pol</persName>, sajes et
+                  nobles sitoiens de <placeName ref="#">Venice</placeName>, raconte pour ce que il
+                  les vit; mais auques il y a choses qu’il ne vit pas, mais il [l’] entendi d’ommes
+                  certains par verité. </seg>
+               <seg xml:id="c0_Fr1.0_p2" n="2"> Et pour ce, metrons nous les choses veues pour
+                  veues, et l’entendue pour entendue, a ce que nostre livre soit vrais et
+                  veritables, sanz nule mençonge.</seg>
+            </p>
+            <p xml:id="c0_Fr1.0_par2" n="2">
+               <seg xml:id="c0_Fr1.0_p3" n="3">Et chascuns qui ce livre orra ou lira le doi[e]
+                  croire, pour ce que toutes sont choses veritables, car je vous fais a savoir que,
+                  puis que Nostre Sire Diex fist Adam, [nostre] premier pere, ne fu onques homme de
+                  nul[e] generacion qui tant seust ne cerchast des diverses parties du monde comme
+                  cestui mesire <persName ref="#">Marc Pol</persName> en sot. </seg>
+               <seg xml:id="c0_Fr1.0_p4" n="4"> Et pour ce pensa que ce seroit granz maus se ce ne
+                  feist metre en escrit ce que il avoit veu et oÿ par verité, a ce que l’autre gent
+                  que ne l’ont veu ne oÿ le sachent par cest livre. </seg>
+               <seg xml:id="c0_Fr1.0_p5" n="5"> Et si vous di qu’il demoura a ce savoir en ces
+                  diverses parties bien .XXVI. ans. </seg>
+            </p>
+            <p xml:id="c0_Fr1.0_par3" n="3">
+               <seg xml:id="c0_Fr1.0_p6" n="6">Lequel livre, [puis demourant] en la carsere de
+                     <placeName ref="#">Gene</placeName>, fist retraire par ordre par mesire
+                     <persName ref="#">Rasta pysan</persName>, qui en cele meïsmes prison estoit au
+                  temps que il couroit de Crist .MCCXCVIII. anz de l’Incarnation. </seg>
+            </p>
+            <p/>
+         </div>
+
+         <div type="chapter" xml:id="c1_Fr1.1" n="1" corresp="#c0_tr1">
+            <head>
+               <hi rend="bold">#1</hi><lb/>
+               <seg n="">Ci dit le premier chapitre comment les .II. freres se partirent de
+                     <placeName ref="#">Constentinnoble</placeName> pour encherchier du monde.</seg>
+            </head>
+            <p n="1" xml:id="c1_Fr1.1_par1">
+               <seg xml:id="c1_Fr1.1_p1" n="1">Il fu voirs [que] au temps que <persName ref="#"
+                     >Bauduins</persName> fu empereres de <placeName ref="#"
+                     >Constentinnoble</placeName>, ce fu a mil et CC et L[X] anz de Crist, mesires
+                     <persName ref="#">Nicolaus Pol</persName>, qui peres mesire <persName ref="#"
+                     >Marc</persName> estoit, et mesire <persName ref="#">Mafe</persName>, qui
+                  freres <persName ref="#">Nicolaus</persName> estoit, cil .II. frere estoient en la
+                  cité de <placeName ref="#">Constentinnoble</placeName> alé de <placeName ref="#"
+                     >Venise</placeName> avec leur marcheandise. </seg>
+               <seg xml:id="c1_Fr1.1_p2" n="2">Noble et sage et pourveant estoient sanz faille. </seg>
+               <seg xml:id="c1_Fr1.1_p3" n="3"> Il orent conseil entr’eulz [pris] d’aler au
+                     <placeName ref="#">Marmajour</placeName> pour gaaignier. </seg>
+               <seg xml:id="c1_Fr1.1_p4" n="4">Il [acheterent] plusours joiaus et se partirent de
+                     <placeName ref="#">Constentinnoble</placeName> et alerent par mer en <placeName
+                     ref="#">Soladaÿe</placeName>.</seg>
+            </p>
+         </div>
+
+         <div type="chapter" n="105" xml:id="c105_Fr1.105" corresp="#c105_tr105">
+            <head><hi rend="bold">#105</hi><lb/> Ci devise li .C. et .V. chapitre de la grant cité
+               de <placeName ref="#giugiu">Ginguy</placeName>. </head>
+            <p n="1" xml:id="c105_Fr1.105_par1">
+               <seg n="1" xml:id="c105_cFr1.105_p1"> Quant l’en est parti de cest pont et l’en a
+                  chevauchié .XXX. <term ref="#mil">milles</term> par <term>ponent</term>, trouvant
+                  toutes fois belles herberges pour les viandes et belles vingnes et biaux jardins
+                  et biaux champs et belles fontainnes, adonques treuve l’en unne cité qui a non
+                     <placeName ref="#giugiu">Ginguin</placeName>, grant et belle. </seg>
+               <seg n="2" xml:id="c105_Fr1.105_p2"> Il y a maintes abbaïes d’<term ref="#ydres"
+                     >ydles</term>. </seg>
+               <seg n="3" xml:id="c105_Fr1.105_p3"> Il vivent de marchandises et d’ars; il labourent
+                     <term>draps</term> d’<term>or</term> et de <term>soie</term> et
+                     <term>cendaux</term> moult bien et moult bel, et si y a maintes belles
+                  herberges pour les cheminanz. </seg>
+            </p>
+            <p n="2" xml:id="c105_Fr1.105_par2">
+               <seg n="4" xml:id="c105_Fr1.105_p4"> Et quant l’en est partiz de ceste ville et l’en
+                  a chevauchié une <term ref="#mil">mille</term>, si treuve l’en .II. voies, que
+                  l’une va a <term>ponent</term> et l’autre a <term>sieloc</term>. </seg>
+               <seg n="5" xml:id="c105_Fr1.105_p5"> Celle du <term>ponent</term> est du
+                     <placeName>Catay</placeName>, et celle du <term>syeloc</term> si va vers la
+                  grant province du <placeName>Manzi</placeName>. </seg>
+               <seg n="6" xml:id="c105_Fr1.105_p6"> [Et sachiés tout voiremant que l’en chevauche
+                  .X.] journees par <term>ponent</term> par la province du
+                     <placeName>Catay</placeName>, et toutes fois trouvant chastiaux et villes et
+                  mainz biaux casaus, de granz marchandises et de grans ars [et de biaux champs] et
+                  de belles vignes et demeches gens. </seg>
+               <seg n="7" xml:id="c105_Fr1.105_p7"> Mais pour ce qu’il n’i a chose qui a ramentevoir
+                  face, n’en diray ore riens, si vous diray du royaume qui
+                     <placeName>Caraufu</placeName> est appellez. </seg>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

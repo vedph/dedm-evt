@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>P</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+            <respStmt>
+               <resp>Project coordination by</resp>
+               <name ref="#eugenio">Eugenio Burgio</name>
+               <name xml:id="marina">Marina Buzzoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Text modelling and encoding by</resp>
+               <name xml:id="elisa">Elisa Cugliana</name>
+            </respStmt>
+            <respStmt>
+               <resp>Software developing by</resp>
+               <name xml:id="chiara">Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="v_P_body" xml:lang="la">
+         <div type="volume" n="1" xml:id="P1">
+            <div type="chapter" xml:id="c0_P1.0" n="0">
+               <head><hi rend="bold">#0</hi><lb/>|1a| Incipit prologus in librum domini <persName ref="#">Marchi Pauli</persName> de
+                     <placeName ref="#">Veneciis</placeName> de condicionibus et consuetudinibus
+                     orientalium regionum.</head>
+               <p xml:id="c0_P1.0_par1" n="1">
+                  <seg xml:id="c0_P1.0_p1" n="1">Librum prudentis et honorabilis viri atque fidelis domini
+                     <persName ref="#">Marchi Pauli</persName> de <placeName ref="#">Venetiis</placeName>
+                     de condicionibus et consuetudinibus orientalium regionum, ab eo in vulgari fideliter
+                     editum et conscriptum, compellor ego, frater <persName ref="#">Franciscus Pipinus
+                     </persName>de <placeName ref="#">Bononia</placeName> ordinis fratrum predicatorum, a
+                     plerisque patribus et dominis meis veridica et fideli translacione de vulgari ad latinum
+                     reducere, ut, qui amplius latino quam vulgari delectantur eloquio, nec non et hii, qui
+                     propter vel linguarum varietatem omnimodam |1b| aut propter diversitatem ydeomatum
+                     proprietatem lingue alterius intelligere omnino aut faciliter nequeunt, aut
+                     delectabilius legant seu liberius capiant. </seg>
+                  <seg xml:id="c0_P1.0_p2" n="2">Porro per se ipsos laborem hunc, quem me assumere
+                     compulerunt, perficere plenius poterant, sed altiori contemplacioni vacantes et infimis
+                     sublimia preferentes sicut terrena sapere ita terrena describere recusarunt. Ego autem
+                     eorum obtemperans iussioni libri ipsius continenciam fideliter et integraliter ad
+                     latinum planum et apertum transtuli, quoniam stilum huiusmodi libri materia requirebat. </seg>
+                  <seg xml:id="c0_P1.0_p3" n="3"> Et ne labor huiusmodi inanis aut inutilis videatur,
+                     consideravi ex huius libri inspectione fideles viros posse multiplicis gracie meritum a
+                     Domino promereri, sive quod in varietate et decore et magnitudine creaturarum mirabi|lia
+                     |1c| Dei opera aspicientes ipsius poterunt virtutem et sapientiam venerabilius admirari,
+                     aut, videntes gentiles populos tanta cecitatis tenebrositate tantisque sordibus
+                     involutos, gratias Deo agant, qui fideles suos luce veritatis illustrans de tam
+                     periculosis tenebris vocare dignatus est in admirabile lumen suum, seu illorum
+                     ignorancie condolentes pro illuminacione cordium ipsorum Dominum precabuntur vel
+                     indevotorum <persName ref="#">christianorum</persName> desidia confundetur, quod
+                     infedeles populi prompciores sunt ad veneranda simulacra quam ad veri Dei cultum prompti
+                     sunt plurimi ex hiis, qui Christi sunt caractere insigniti; sive etiam religiosorum
+                     aliquorum corda provocari poterunt pro ampliacione fidei christiane, ut nomen Domini
+                     nostri Ihesu Christi in tanta multitudine populorum oblivioni traditum defe|rant |1d|,
+                     spiritu favente divino, ad accecatas infidelium naciones, ubi messis quidem multa
+                     operarii vero pauci. </seg>
+                  <seg xml:id="c0_P1.0_p4" n="4">Ne autem inaudita multa atque nobis insolita que in libro hoc
+                     in locis plurimis referuntur inexperto lectori incredibilia videantur, cunctis in eo
+                     legentibus innotescat prefatum dominum <persName ref="#">Marchum</persName> horum
+                     mirabilium relatorem virum esse prudentem, fidelem et devotum atque honestis moribus
+                     adornatum, a cunctis sibi domesticis testimonium bonum habentem ut multiplicis virtutis
+                     eius merito sit ipsius relacio fidedigna; pater autem eius dominus <persName ref="#"
+                        >Nicolaus</persName> tocius prudentie vir hec omnia similiter referebat; patruus
+                     vero ipsius dominus <persName ref="#">Matheus</persName>, cuius meminit liber iste, vir
+                     utique maturus, devotus et sapiens, in mortis articulo constitutus, confessori suo in
+                     familiari colloquio constanti |2a| firmitate asseruit librum hunc veritatem per omnia
+                     continere. </seg>
+                  <seg xml:id="c0_P1.0_p5" n="5"> Propter quod circa translacionem ipsius laborem assumpsi,
+                     conscentia tutiore, ad consolacionem legentium et ad laudem Domini nostri Ihesu Christi,
+                     cunctorum visibilium et invisibilium creatoris. </seg>
+                  <seg xml:id="c0_P1.0_p6" n="6"> Liber autem iste in tres libros dividitur, qui per propria
+                     capitula distinguntur, quorum librorum principiis ad faciliorem contentorum in ipsis
+                     invencionem sunt capitulorum tituli prenotati. </seg>
+               </p>
+               <p>Explicit Prologus.</p>
+            </div>
+            
+         </div>
+         <div type="volume" n="2" xml:id="P2">
+
+            <!-- In P e in R c'è un ulteriore livello, ovvero il 
+            volume: per il momento ho usato sempre un <div> generico specificando il @type. Ma credo se ne 
+            debba tenere presente a livello di XPath per es. (elisa) -->
+
+            <div type="chapter" n="28" xml:id="c105_P2.28" corresp="#c105_tr105">
+               <head><hi rend="bold">#28</hi><lb/>Brevis quedam descriptio partis unius provincie <placeName>Cathay</placeName>.
+                  Capitulum XXVIII</head>
+               <p n="1" xml:id="c105_P2.28_par1"><seg n="1" xml:id="c105_P2.28_p1">Cum vero ultra
+                     pontem proceditur per <term ref="#mil">miliaria</term> .XXX., inveniuntur
+                     continue palatia multa et alie domus pulchre, vinee pulcre et agri
+                     fertiles.</seg>
+                  <seg n="2" xml:id="c105_P2.28_p2">Terminatis .XXX. <term ref="#mil"
+                        >miliaribus</term> invenitur civitas <placeName ref="#giugiu"
+                        >Gyn</placeName>, magna et pulcra, ubi multa sunt monasteria <term
+                        ref="#ydres">ydolorum</term>, ubi etiam fiunt <term>panni</term> aurei
+                     optimi et sericei et <term>sindones</term> optimi.</seg>
+                  <seg n="3" xml:id="c105_P2.28_p3"> Sunt etiam ibi pro viatoribus hospitia communia
+                     multa.</seg>
+                  <seg n="4" xml:id="c105_P2.28_p4">Cives communiter artifices et mercatores
+                     sunt.</seg>
+                  <seg n="5" xml:id="c105_P2.28_p5">Ultra civitatem hanc, ad <term ref="#mil"
+                        >miliare</term> unum, vie due sunt, quarum una transit per provinciam
+                        <placeName>Cathay</placeName>, altera vero, ad <term>circium</term> sita,
+                     ducit ad mare versus regiones <placeName>Mangy</placeName>.</seg>
+                  <seg n="6" xml:id="c105_P2.28_p6">Per provinciam autem
+                        <placeName>Cathay</placeName> itur per plagam illam per dietas decem,
+                     continueque reperiuntur civitates et castra ubi agri multi optimi sunt et
+                     viridaria pulcra valde.</seg>
+                  <seg n="7" xml:id="c105_P2.28_p7">Multique negotiatores ibi sunt et
+                     artifices.</seg>
+                  <seg n="8" xml:id="c105_P2.28_p8">Homines autem regionis illius domestici valde
+                     sunt et affabiles.</seg></p>
+            </div>
+            <div type="chapter" n="29" xml:id="c106_P29" corresp="#c106_tr106">
+               <p><hi rend="bold">#29</hi><lb/></p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

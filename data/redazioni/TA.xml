@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>TA</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+            <respStmt>
+               <resp>Project coordination by</resp>
+               <name ref="#eugenio">Eugenio Burgio</name>
+               <name xml:id="marina">Marina Buzzoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Text modelling and encoding by</resp>
+               <name xml:id="elisa">Elisa Cugliana</name>
+            </respStmt>
+            <respStmt>
+               <resp>Software developing by</resp>
+               <name xml:id="chiara">Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="v_TA_body" xml:lang="it">
+         
+         <div type="chapter" xml:id="c0_TA1" n="1">
+            <p n="1" xml:id="c0_TA1_par1">
+               <hi rend="bold">#1</hi><lb/>
+               <seg xml:id="c0_TA1_p1" n="1">Signori imperadori, re e duci e·ttutte altre genti che volete
+                  sapere le diverse generazioni delle genti e·lle diversità delle regioni del mondo,
+                  leggete questo libro dove le troverrete tutte le grandissime maraviglie e gran
+                  diversitadi delle genti d’<placeName ref="#">Erminia</placeName>, di <placeName ref="#"
+                     >Persia</placeName> e di <placeName ref="#">Tarteria</placeName>, d’<placeName ref="#"
+                        >India</placeName> e di molte altre province. </seg>
+               <seg xml:id="c0_TA1_p2" n="2">E questo vi conterà il libro ordinatamente siccome messere
+                  <persName ref="#">Marco Polo</persName>, savio e·nnobile cittadino di <placeName
+                     ref="#">Vinegia</placeName>, le conta in questo libro e egli medesimo le vide. </seg>
+               <seg xml:id="c0_TA1_p3" n="3">Ma ancora v’à di quelle cose le quali elli non vide, ma udille
+                  da persone degne di fede, e però le cose vedute dirà di veduta e·ll’altre per udita,
+                  acciò che ’l nostro libro sia veritieri e sanza niuna menzogna. </seg>
+               <seg xml:id="c0_TA1_p4" n="4"> Ma io voglio che·vvoi sappiate che·ppoi che Iddio fece Adam
+                  nostro primo padre insino al dì d’oggi, né <persName ref="#">cristiano</persName> né
+                  pagano, <persName ref="#">saracino</persName> o <persName ref="#">tartero</persName>, né
+                  niuno huomo di niuna generazione non vide né cercò tante maravigliose cose del mondo
+                  come fece messer <persName ref="#">Marco Polo</persName>. </seg>
+               <seg xml:id="c0_TA1_p5" n="5"> E però disse infra·sse medesimo che troppo sarebbe grande
+                  male s’egli non mettesse inn-iscritto tutte le maraviglie ch’egli à vedute, perché chi
+                  no·lle sa l’appari per questo libro.</seg>
+            </p>
+            <p n="2" xml:id="c0_TA1_par2">
+               <seg xml:id="c0_TA1_p6" n="6">E·ssì·vvi dico ched egli dimorò in que’ paesi bene trentasei
+                  anni; lo quale poi, stando nella prigione di <placeName ref="#">Genova</placeName>, fece
+                  mettere inn-iscritto tutte queste cose a messere <persName ref="#">Rustico
+                     da·pPisa</persName>, lo quale era preso in quelle medesime carcere ne gli anni di
+                  Cristo 1298.</seg>
+            </p>
+            
+         </div>
+         <div type="chapter" n="105" xml:id="c105_TA105" corresp="#c105_tr105">
+            <head><hi rend="bold">#105</hi><lb/>De la grande città del <placeName>Giogui</placeName>.</head>
+            <p n="1" xml:id="c105_TA105_par1"><seg n="1" xml:id="c105_TA105_p1">E quando l’uomo si
+                  parte da questo ponte, l’uomo vae .XXX. <term ref="#mil">miglie</term> per
+                     <term>ponente</term>, tuttavia trovando belle case, begli alberghi, àlbori,
+                  vigne.</seg>
+               <seg n="2" xml:id="c105_TA105_p2">E quivi truova una città ch’à nome <placeName
+                     ref="#giugiu">Giogui</placeName>, grande e bella; quivi àe molte badie d’<term
+                     ref="#ydres">idoli</term>.</seg>
+               <seg n="3" xml:id="c105_TA105_p3">Egli vivono di mercatantia e d’arti; quivi si
+                  lavora <term>drappi</term> di <term>seta</term> e d’<term>oro</term> e bello
+                     <term>zendado</term>.</seg>
+               <seg n="4" xml:id="c105_TA105_p4">Quivi àe begli alberghi.</seg>
+               <seg n="5" xml:id="c105_TA105_p5">Quando l’uomo à passato questa villa uno <term
+                     ref="#mil">miglio</term>, l’uomo truova due vie, l'una vae verso
+                     <term>ponente</term> e·ll’altra verso <term>sirocco</term>.</seg>
+               <seg n="6" xml:id="c105_TA105_p6">Quella di verso <term>ponente</term> è del
+                     <placeName>Catai</placeName>, e·ll’altra dallo <term>sirocco</term> vae verso
+                  ’l mare a la grande provincia deu <placeName>Mangi</placeName>.</seg>
+               <seg n="7" xml:id="c105_TA105_p7">E sappiate veramente che l’uomo cavalca per
+                     <term>ponente</term> per la provincia del <placeName>Catai</placeName> bene .X.
+                  giornate, tuttavia trovando belle cittadi e belle castella di mercatantie e
+                  d’arti, e belle vigne e àlbori assai, e gente dimestica.</seg>
+               <seg n="8" xml:id="c105_TA105_p8">Quivi nonn-à altro a ricordare; però ci partiremo
+                  di quie, ed anderemo ad uno reame chiamato <placeName ref="#taianfu"
+                     >Taiamfu</placeName>.</seg></p>
+         </div>
+      </body>
+   </text>
+</TEI>

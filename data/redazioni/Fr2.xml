@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fr2</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+            <respStmt>
+               <resp>Project coordination by</resp>
+               <name ref="#eugenio">Eugenio Burgio</name>
+               <name xml:id="marina">Marina Buzzoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Text modelling and encoding by</resp>
+               <name xml:id="elisa">Elisa Cugliana</name>
+            </respStmt>
+            <respStmt>
+               <resp>Software developing by</resp>
+               <name xml:id="chiara">Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="v_Fr2_body" xml:lang="fr">
+         
+         <div type="chapter" xml:id="c0_Fr2.0" n="0" corresp="#c0_tr0">
+            <p xml:id="c0_Fr2.0_par1" n="1">
+               <hi rend="bold">#0</hi><lb/>
+               <seg xml:id="c0_Fr2.0_p1" n="1">Pour savoir la pure verité des diverses regions du monde, si
+                  prenés ce livre et le faites lire: si y trouveres les grandismes merveilles qui y sont
+                  escriptes de la <placeName ref="#">Grant Hermenie</placeName> et de <placeName ref="#"
+                     >Perse</placeName> et des <persName ref="#">Tartars</persName> et d’<placeName ref="#"
+                        >Inde </placeName>et de maintes autres prouvinces, si com nostre livres vous contera
+                  tout par ordres appartenant de quoi messires <persName ref="#">Marc Pol</persName>, sages
+                  et nobles citoiens de <placeName ref="#">Venisse</placeName> raconte, pour ce que il les
+                  vit; mais auques y a de choses que il ne vit pas, mais il l’entendi d’ommes certains par
+                  verité. </seg>
+               <seg xml:id="c0_Fr2.0_p2" n="2"> Et pour ce metrons les choses veues pour veues, et
+                  l’entendue pour entendue, a ce que no |3d|stre livre soit droit et veritables sanz
+                  nulles mensonges. </seg>
+            </p>
+            <p xml:id="c0_Fr2.0_par2" n="2">
+               <seg xml:id="c0_Fr2.0_p3" n="3">Et chascuns qui ce livre oira ou lira le doie croire, pour ce
+                  que toutes sont choses veritables, car je vous faiz savoir que, puis que Nostre Sires
+                  Dieus fist Adam, nostre primier pere, ne fu onques homme de nulle generation qui tant
+                  sceust ne cerchast des diverses parties du monde et des grans merveilles comme cestui
+                  messires <persName ref="#">Marc Pol</persName> en sot. </seg>
+               <seg xml:id="c0_Fr2.0_p4" n="4">Et pour ce pensa que trop seroit grans maus se il ne feist
+                  metre en escript ce que il avoit veu et oï par verité, a ce que les autres gens qui ne
+                  l’ont veu ne oÿ le sachent par cest livre. </seg>
+               <seg xml:id="c0_Fr2.0_p5" n="5"> Et si vous di qu’il demoura a ce savoir en ces diverses
+                  parties bien .XXVI. ans. </seg>
+               <seg xml:id="c0_Fr2.0_p6" n="6"> Lequel livre puis, demorant en la carsere de <placeName
+                  ref="#">Jenes</placeName>, |4a| fist retrere par ordre a messire <persName ref="#"
+                     >Rusta</persName> pisan, qui en cele meisme prison estoit au temps que il couroit de
+                  Crist .M.CC.LXXXXVIII. ans de l’Incarnation. </seg>
+            </p>
+         </div>
+         
+         <div type="chapter" n="105" xml:id="c105_Fr2.105" corresp="#c105_tr105">
+            <head>
+               <hi rend="bold">#105</hi><lb/>
+               Ci devise de la grant cité de <placeName ref="#giugiu">Gi[u]g[iu]</placeName> .C.V.
+            </head>
+            <p n="1" xml:id="c105_Fr2.105_par1">
+               <seg n="1" xml:id="c105_cFr2.105_p1">
+                  Quant l’en se part de ce pont et l’en a chevauchié .XXX. <term ref="#mil">milles</term> par
+                  <term>ponent</term>, trouvant toute voies belles herbergeries pour les viandes
+                  et belles vingnes et biaus jardins et biaus champs et belles fontaines, adonc
+                  treuve l’en une cité, qui a non <placeName ref="#giugiu">Gingiu</placeName>, grant et belle. 
+               </seg>
+               <seg n="2" xml:id="c105_Fr2.105_p2">
+                  Si y a maintes abbaïes.
+               </seg>
+               <seg n="3" xml:id="c105_Fr2.105_p3">
+                  Et les genz y vivent de marchandise et d’art.
+               </seg>
+               <seg n="4" xml:id="c105_Fr2.105_p4">
+                  Il labourent <term>draps</term> de <term>soye</term> et d’<term>or</term>
+                  et <term>cendaus</term> moult biaus.
+               </seg>
+            </p>
+            <p n="2" xml:base="c105_Fr2.105_par2">
+               <seg n="5" xml:id="c105_Fr2.105_p5">
+                  Et si y a maintes herbergeries pour les cheminans.
+               </seg>
+            </p>
+            <p n="4" xml:base="c105_cFr2.105_par4">
+               <seg n="6" xml:id="c105_Fr2.105_p6">
+                  Et quant l’en est parti de celle cité et en a chevauchié une <term ref="#mil">mille</term>,
+                  si treuve l’en .II. voies, dont l’une vait a |44c| <term>ponent</term>, l’autre a <term>sieloc</term>. 
+               </seg>
+               <seg n="7" xml:id="c105_Fr2.105_p7">
+                  Celle du <term>ponent</term> est du <placeName>Catay</placeName> et celle du <term>sieloc</term> vait
+                  vers la province du <placeName>Manzi</placeName>.
+               </seg>
+               <seg n="8" xml:id="c105_Fr2.105_p8">
+                  Et quant l’en a chevauchié .X. journees vers <term>ponent</term> par la province du <placeName>Catay</placeName>,
+                  et toutes foiz trouvant cités et chastiaus et mains biaus casaus de granz marcheandises {et de grans
+                  marcheandises} et de grans ars, et biaus chans et belles vingnes et privees genz.
+               </seg>
+               <seg n="9" xml:id="c105_Fr2.105_p9">
+                  Mais, pour ce qu’il n’y a chose qui a conter face, ne vous en diray ore riens; si vous conteray d’un royaume
+                  qui <placeName ref="#taianfu">Taianfu</placeName> est appellés.
+               </seg>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>

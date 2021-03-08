@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VA</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+            <respStmt>
+               <resp>Project coordination by</resp>
+               <name ref="#eugenio">Eugenio Burgio</name>
+               <name xml:id="marina">Marina Buzzoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Text modelling and encoding by</resp>
+               <name xml:id="elisa">Elisa Cugliana</name>
+            </respStmt>
+            <respStmt>
+               <resp>Software developing by</resp>
+               <name xml:id="chiara">Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="v_VA_body" xml:lang="it">
+         
+         <div type="chapter" xml:id="c0_VA1" n="1" corresp="#c0_tr0">
+               <head><hi rend="bold">#1</hi><lb/>Del prolago: sì come misier <persName ref="#"
+                     >Nicollò</persName> e misier <persName ref="#">Mafio Pollo</persName>, zitadini
+                  de <placeName ref="#">Veniexia</placeName>, andò inprimamente in <placeName
+                     ref="#">Chostantinopolli</placeName>, e dapuo’ in <placeName ref="#"
+                     >Soldania</placeName>, e possa là dove era <persName ref="#">Barcha
+                     Achaan</persName>; e molte altre cosse.</head>
+            <p n="1" xml:id="c0_VA1_par1">
+               <seg xml:id="c0_VA1_p1" n="1">Signori re, duchi, marchexi, chonti, chavalieri,
+                  prinzipi et baroni, et tuta zente a chui dileta de saver le diversse zenerazion de
+                  zente e dei regniami del mondo, tolé questo libro e fate-llo lezer. </seg>
+               <seg xml:id="c0_VA1_p2" n="2"> Et qui troverete tute le grandisime meraveie et
+                  diversitate della <placeName ref="#">grande Armenia</placeName>, de <placeName
+                     ref="#">Persia</placeName>, <placeName ref="#">Tartaria</placeName> e de
+                     <placeName ref="#">India</placeName> et de molte altre provinzie. </seg>
+               <seg xml:id="c0_VA1_p3" n="3">Et questo libro ve chonterà per ordine sì chome misier
+                     <persName ref="#">Marcho Polo</persName>, nobelle et savio zitadin de
+                     <placeName ref="#">Veniexia</placeName>, à rezitado segondo che lui medemo vide
+                  chon i suo’ hochi.</seg>
+            </p>
+            <p n="2" xml:id="c0_VA1_par2">
+               <seg n=""/>
+               <seg xml:id="c0_VA1_p4" n="4"> Ben chonta in questo libro molte cosse ch’el non vide,
+                  ma ello le intexe da savii homeni e degni de fede; e però meterà le chosse vezude
+                  per vezuda, e le aldide per aldida, azò che ’l nostro libro sia drito e veraze e
+                  senza reprension niuna; nì nonn è nostra intenzion de rezitar né de scriver chossa
+                  che non sia veraxia.</seg>
+            </p>
+            <p n="3" xml:id="c0_VA1_par3">
+               <seg xml:id="c0_VA1_p5" n="5">E sapiate veramente che nostra chreenza si è, dapo’ che
+                  ’l nostro Segnior Dio chreò Adam, nostro primo padre, ch’el non fo nesuno homo, nì
+                     <persName ref="#">cristian</persName> nì pagan, nì altra zente del mondo che
+                  tanto vedesse e zerchasse delle diverse parte del mondo e meraveie chome à fato
+                  questo misier <persName ref="#">Marcho Pollo</persName>. </seg>
+               <seg xml:id="c0_VA1_p6" n="6">E questa è la chaxione per che el se mosse a far
+                  scriver questo libro: perché el pareva a llui ch’el fosse gran mal e grande
+                  reprensione che chusì grande e stranie chosse e meraveie non fosseno dite e sapute
+                  dale giente per le diversse parte del mondo, e non fosseno messe in perpetual
+                  memoria. </seg>
+               <seg xml:id="c0_VA1_p7" n="7"> A saver queste chosse el stete in quele parte del
+                  mondo ben ani XXVI.</seg>
+            </p>
+            <p n="4" xml:id="c0_VA1_par4">
+               <seg xml:id="c0_VA1_p8" n="8">E siando in charzere a <placeName ref="#"
+                     >Zenova</placeName>, alora se fè’ scriver questo libro a misier <persName
+                     ref="#">Ristazo da Pixa</persName>, lo qual era prixion chon esso lui: lui lo
+                  redusse in scritura, e questo fo ano domini MCCXCVIII. </seg>
+            </p>
+         </div>
+
+         <div type="chapter" n="84" xml:id="c105_VA84" corresp="#c105_tr105">
+            <head><hi rend="bold">#84</hi><lb/>Della zità de <placeName ref="#giugiu">Grongi</placeName> e della provinzia de
+                  <placeName>Catai</placeName>.</head>
+            <p n="1" xml:id="c105_VA84_par1"><seg n="1">Quando l’omo se parte de questo ponte, el va
+                  trenta <term ref="#mil">mia</term> trovando tuta fiada chaxe belle e palazi,
+                  vignie e chanpi.</seg>
+               <seg n="2">De chavo de trenta <term ref="#mil">mia</term> se trova una zità che à
+                  nome <placeName ref="#giugiu">Grogin</placeName>, grande e bella, là dove è molte
+                  badie de <term ref="#ydres">idolle</term>.</seg>
+               <seg n="3">La zente vive d’arte e de marchadantie; lì se lavora <term>drapi</term> de
+                     <term>seta</term> e d’<term>oro</term> e <term>zendaieli</term>.</seg>
+               <seg n="4">E n’è molti albergi per forestieri che pasano.</seg>
+            </p>
+            <p n="2" xml:id="c105_VA84_par2"><seg n="5">E quando l’omo è partito da questa zità et è
+                  andado uno <term ref="#ydres">meiaro</term>, el trova do vie, l’una va verso
+                     <term>ponente</term> e l’altra verso <term>sirocho</term>: quella da
+                     <term>ponente</term> va in la provinzia de <placeName>Chatai</placeName> e
+                  quela de <term>sirocho</term> va verso mare ala provinzia de
+                     <placeName>Manci</placeName>.</seg>
+               <seg n="6">Sì se chavalcha per ponente per la provinzia de
+                     <placeName>Chatai</placeName> ben diexe zornade, tuta fiata trovando de molte
+                  belle zità e chastelle, e de molte gran merchadantie e de gran arte, e de belli
+                  chanpi e zardini, e domesticha zente.</seg>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
