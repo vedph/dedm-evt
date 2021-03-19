@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div type="chapter" xml:id="">
+    <p>
+        <seg n="">
+            <placeName ref="">P, I 35</placeName>
+        </seg>
+    </p>
+    <p>
+        <seg n="">De provincia <placeName ref="">Bascie</placeName>. Capitulum 35m.</seg>
+    </p>
+    <p/>
+    <p>
+        <seg xml:id="c47_P1.35_p1" n="1"><placeName ref="">Bascia</placeName> est provincia distans
+            per dietas decem a provincia <placeName ref="">Balascie</placeName>; regio valde calida
+            est. </seg>
+        <seg xml:id="c47_P1.35_p2" n="2">Homines habet nigros, astutos et malos, linguam habent
+            propriam et in auribus inaures aureas et argenteas deferunt cum <term ref=""
+                >margaritis</term> et lapidibus preciosis. </seg>
+        <seg xml:id="c47_P1.35_p3" n="3">Carnibus vescuntur et riso. </seg>
+        <seg xml:id="c47_P1.35_p4" n="4">
+            <term ref="">Idolatre</term> autem sunt vacantes incantacionibus et invocacionibus
+            demonum.</seg>
+    </p>
+</div>

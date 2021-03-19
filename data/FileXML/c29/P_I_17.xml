@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div type="chapter" xml:id="">
+    <p>
+        <seg n="">
+            <placeName ref="">P, I 17</placeName>
+        </seg>
+    </p>
+    <p>
+        <seg n="">De civitate <placeName ref="">Thaurisii</placeName>. Capitulum 17m.</seg>
+    </p>
+    <p>
+        <seg n=""> </seg>
+    </p>
+    <p>
+        <seg xml:id="c29_P1.17_p1" n="1"><placeName ref="">Thaurisium</placeName> est in illis
+            partibus nobilissima civitas, ubi fiunt mercaciones innumere. </seg>
+        <seg xml:id="c29_P1.17_p2" n="2">Ibi est habundancia gemmarum et omnium preciosorum lapidum;
+            ibi fiunt <term ref="">panni</term> de <term ref="">auro</term> et de <term ref=""
+                >serico</term> valoris permaximi. </seg>
+        <seg xml:id="c29_P1.17_p3" n="3">Civitas in situ peroptimo est propter quod illuc confluunt
+            mercaciones undique, scilicet de <placeName ref="">India</placeName>, de <placeName
+                ref="">Baldacho</placeName>, de <placeName ref="">Mosul</placeName> et de <placeName
+                ref="">Cremosor</placeName>, de terris etiam <persName ref="">latinorum</persName>
+            et de aliis regionibus infinitis; ibi multi mercatores ditantur. </seg>
+        <seg xml:id="c29_P1.17_p4" n="4">Populus maximus terram incolit. </seg>
+        <seg xml:id="c29_P1.17_p5" n="5"> Sunt enim ibi <persName ref="">nestorini</persName>,
+                <persName ref="">iacobini</persName> et <persName ref="">perse</persName>; cives
+                <placeName ref="">Thaurisii</placeName>
+            <persName ref="">Machometum</persName> |l0a| adorant. </seg>
+        <seg xml:id="c29_P1.17_p6" n="6"> Civitas vallata est viridariis pulcherimis, ubi fructus
+            copiosi et optimi sunt.</seg>
+    </p>
+</div>

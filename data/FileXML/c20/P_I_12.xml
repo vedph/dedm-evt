@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div type="chapter" xml:id="">
+    <p>
+        <seg n="">
+            <placeName ref="">P, I 12</placeName>
+        </seg>
+    </p>
+    <p>
+        <seg n="">De provincia <placeName ref="">Turchie</placeName>. Capitulum XII.</seg>
+    </p>
+    <p>
+        <seg n=""> </seg>
+    </p>
+    <p>
+        <seg xml:id="c20_P1.12_p1" n="1"><placeName ref="">Turchia</placeName>, provincia
+            promiscuarum gentium, continet populos ex <persName ref="">Grecis</persName>, <persName
+                ref="">Armenis</persName> et <persName ref="">Turchis</persName>. </seg>
+        <seg xml:id="c20_P1.12_p2" n="2"><persName ref="">Turchi</persName> linguam propriam habent
+            et <persName ref="">Machometi</persName> abhominabilis legem; indocti homines sunt et
+            rudes; in montibus et vallibus commorantur prout reperire possunt competencia pascua;
+            greges magnos habent <term ref="">iumentorum</term> et <term ref="">peccorum</term>; ibi
+                <term ref="">equi</term> et <term ref="">muli</term> valoris magnis sunt. </seg>
+        <seg xml:id="c20_P1.12_p3" n="3"><persName ref="">Armeni</persName> vero et <persName ref=""
+                >Greci</persName> qui ibi sunt in civitatibus |8b| et oppidis habitant; in <term
+                ref="">serico</term> nobilissime operantur. </seg>
+        <seg xml:id="c20_P1.12_p4" n="4">Civitates habent multas inter quas precipue sunt iste:
+                <placeName ref="">Goino</placeName>, <placeName ref="">Casserie</placeName> et
+                <placeName ref="">Sebasta</placeName>, ubi <persName ref="">beatus
+                Blaxius</persName> martirium pro Christo suscepit. </seg>
+        <seg xml:id="c20_P1.12_p5" n="5">Subiecti autem sunt uni de regibus <persName ref=""
+                >Tartarorum</persName>.</seg>
+    </p>
+</div>

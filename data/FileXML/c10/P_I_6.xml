@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div type="chapter" xml:id="">
+    <p>
+        <seg n="">
+            <placeName ref="">P, I 6</placeName>
+        </seg>
+    </p>
+    <p>
+        <seg n="">Qualiter redierunt ad regem |5d| <persName ref="">Tartarorum</persName>. Capitulum
+            6m.</seg>
+    </p>
+    <p/>
+    <p>
+        <seg xml:id="c10_P1.6_p1" n="1">Post duos annos, predicti regis nuncii, metuentes ne rex ex
+            mora ipsorum nimia turbaretur et putaret eos amplius nolle redire, ad ipsum redierunt
+                <placeName ref="">Accon</placeName>, <persName ref="">Marchum</persName> predictum
+            secum ducentes. </seg>
+        <seg xml:id="c10_P1.6_p2" n="2">De licencia vero legati sepulcrum Domini visitantes oleum de
+            lampade sepulcri, ut rex postulaverat, acceperunt et, acceptis litteris legati ad regem,
+            in quibus eis perhibebat testimonium quod fideliter egerant et quod Romane ecclesie
+            numdum erat de pastore provisum, iverunt ad <placeName ref="">Glazam</placeName>.</seg>
+    </p>
+</div>

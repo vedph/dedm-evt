@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div type="chapter" xml:id="">
+    <p>
+        <seg n="">
+            <placeName ref="">P, I 42</placeName>
+        </seg>
+    </p>
+    <p>
+        <seg n="">De provincia <placeName ref="">Pein</placeName>. Capitulum 42m.</seg>
+    </p>
+    <p/>
+    <p>
+        <seg xml:id="c54_P1.42_p1" n="1">Progredientibus vero per eandem plagam occurrit provincia
+                <placeName ref="">Pein</placeName>, longitudinem habens dietarum .<term ref="">V.,
+            </term>que similiter subiecta est <persName ref="">Magno Kaam</persName> et <persName
+                ref="">Machometum</persName> adorat. </seg>
+        <seg xml:id="c54_P1.42_p2" n="2">Multas habet civitates et castra, nobilior autem ex
+            civitatibus eius dicitur <placeName ref="">Pein</placeName>, ubi est fluvius in quo
+            preciosi inveniuntur lapides, scilicet <term ref="">iaspides</term> et <term ref=""
+                >calcedonii</term>. </seg>
+        <seg xml:id="c54_P1.42_p3" n="3">Homines patrie artifices et negociatores sunt et habent
+                <term ref="">bombicinis</term> et victualium copiam. </seg>
+        <seg xml:id="c54_P1.42_p4" n="4">Est autem in provincia <placeName ref="">Pein</placeName>
+            consuetudo talis ut, si quispiam habens uxorem ad partes alias quacumque ex causa se
+            transferat, ultra diem vicesimum moraturus, post illius discessum uxori licitum est,
+            illo relicto, alteri nubere; vir etiam post discessum uxoris aliam liciter ducere potest
+            uxorem, iuxta errorem in ea patria consuetum.</seg>
+    </p>
+</div>

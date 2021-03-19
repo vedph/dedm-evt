@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div type="chapter" xml:id="">
+    <p>
+        <seg n="">
+            <placeName ref="">P, I 26</placeName>
+        </seg>
+    </p>
+    <p>
+        <seg n="">De ci|vitate |l3b| <placeName ref="">Cobinam</placeName>. Capitulum 26m.</seg>
+    </p>
+    <p/>
+    <p>
+        <seg xml:id="c38_P1.26_p1" n="1"><placeName ref="">Cobinam</placeName> est civitas grandis,
+            ubi copia est ferri <term ref="">calibis</term> et <term ref="">andanici</term>. </seg>
+        <seg xml:id="c38_P1.26_p2" n="2">Ibi fiunt specula de <term ref="">calibe</term> pulcra. </seg>
+        <seg xml:id="c38_P1.26_p3" n="3">Ibi fit <term ref="">tucia</term> que medetur oculis
+            similiter et <term ref="">expodium</term>. </seg>
+        <seg xml:id="c38_P1.26_p4" n="4">Modus autem hoc faciendi est talis: in mineris invenitur
+            ibi vena terrea que ponitur in furnace crate ferrea cooperta; vapor elevatus a terra
+            succensa et conglutinatus ad cratam est <term ref="">tuscia</term>, materia vero
+            grossior que in igne remanet vocatur <term ref="">espodium</term>. </seg>
+        <seg xml:id="c38_P1.26_p5" n="5">Huius terre habitatores sectantur legem <persName ref=""
+                >Machometi</persName>.</seg>
+    </p>
+</div>

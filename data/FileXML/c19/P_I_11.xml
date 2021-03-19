@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<div type="chapter" xml:id="">
+    <p>
+        <seg n="">
+            <placeName ref="">P, I 11</placeName>
+        </seg>
+    </p>
+    <p>
+        <seg n="">Descripcio orientalium regionum et primo de <placeName ref="">Armenia
+                Minore</placeName>. Capitulum XI.</seg>
+    </p>
+    <p/>
+    <p>
+        <seg xml:id="c19_P1.11_p1" n="1">Narracione facta nostrorum itinerum, nunc ad ea narranda
+            que vidimus accedamus: primo autem <placeName ref="">Minorem Armeniam</placeName>
+            breviter describemus. </seg>
+        <seg xml:id="c19_P1.11_p2" n="2"><placeName ref="">Armenie</placeName> due sunt: <placeName
+                ref="">Minor</placeName> et <placeName ref="">Maior</placeName>. </seg>
+        <seg xml:id="c19_P1.11_p3" n="3"><placeName ref="">Armenie Minoris</placeName> regnum
+                <persName ref="">Tartaris</persName> tributarium est; ibi invenimus regem in
+            iusticia servantem. </seg>
+        <seg xml:id="c19_P1.11_p4" n="4">Regnum vero ipsum multas civitates et oppida continet;
+            patria fertilis est et iocunda. </seg>
+        <seg xml:id="c19_P1.11_p5" n="5"> Venaciones bestiarum et avium ibi sunt multe, aer autem
+            non valde sanus est. </seg>
+        <seg xml:id="c19_P1.11_p6" n="6">
+            <persName ref="">Armeni</persName> regionis huius, qui antiquitus fuerant strenui
+            bellatores, nunc potatores et timidi sunt effecti. </seg>
+        <seg xml:id="c19_P1.11_p7" n="7">Ibi est supra mare civitas que dicitur <placeName ref=""
+                >Glaza</placeName> maris portum habens, ad quem multi conveniunt mercatores de
+                <placeName ref="">Venetiis</placeName>, de <placeName ref="">Ianua</placeName> et
+            aliis regionibus plurimis: multe enim mercaciones <term ref="">aromatum</term>
+            diversarum <term ref="">specierum</term> aliarumque preciosarum opum de terra illuc
+            deferuntur; qui etiam volunt orientalium ingredi terras accedunt ad <placeName ref=""
+                >Glaçam</placeName>.</seg>
+    </p>
+</div>
